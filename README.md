@@ -1,5 +1,5 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    School-Management-System-MERN-STACK
 </h1>
 
 <h3 align="center">
